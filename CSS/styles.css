@@ -27,8 +27,8 @@ body {
 .column {
   width:900px;
   float:center;
-    margin:auto;
-    border:50px; color: black;
+  margin:auto;
+  border:50px; color: black;
   padding:2px;
   background-color: #aae7e9
 }
@@ -46,4 +46,11 @@ body {
   font-size:15px;
   font-family:'Courier New', Courier, monospace;
   align-content:center;
+}
+
+a.nav-link:link {
+  color: black;
+  font-weight:bold;
+  text-decoration:none;
+  font-family:'Courier New', Courier, monospace;
 }
