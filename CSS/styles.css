@@ -1,0 +1,12 @@
+body {
+  background-image: url(IMG/rock.jpg);
+  height: 300px;
+  width: 400px;
+}
+
+.banner h1 {
+  font-weight: bold;
+  font-size: 40px;
+  font-family:'Courier New', Courier, monospace;
+  background-color: whitesmoke;
+}
