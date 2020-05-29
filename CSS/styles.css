@@ -54,3 +54,17 @@ a.nav-link:link {
   text-decoration:none;
   font-family:'Courier New', Courier, monospace;
 }
+
+ol li {
+  font-weight:normal;
+  font-size:15px;
+  font-family:'Courier New', Courier, monospace;
+  align-content:center;
+}
+
+ul {
+  font-weight:normal;
+  font-size:15px;
+  font-family:'Courier New', Courier, monospace;
+  align-content:center;
+}
