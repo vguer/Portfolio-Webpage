@@ -5,11 +5,12 @@ body {
 }
 
 .welcome {
-  align-items:center;
+  text-align:center;
 }
 
 .welcome h1 {
   font-weight:normal;
+  text-align:center;
   font-size:40px;
   font-family:'Courier New', Courier, monospace;
   background-color: whitesmoke;
@@ -24,9 +25,9 @@ body {
 }
 
 .column {
-  width:600px;
-  float:left;
-    margin:20px;
+  width:900px;
+  float:center;
+    margin:auto;
     border:50px; color: black;
   padding:2px;
   background-color: #aae7e9
