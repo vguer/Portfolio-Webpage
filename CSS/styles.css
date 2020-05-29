@@ -68,3 +68,8 @@ ul {
   font-family:'Courier New', Courier, monospace;
   align-content:center;
 }
+
+.photos {
+  text-align:center;
+  align-items: center;
+}

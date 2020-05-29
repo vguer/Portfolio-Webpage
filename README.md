@@ -1,4 +1,4 @@
-# Portfolio Webpage
+# Webpage: Porfolio Landing Page
 
 #### Personal Portfolio Independent Project for Epicodus, 5.29.2020
 
@@ -10,9 +10,10 @@ The purpose of this independent project is to create a web landing page using HT
 
 ## Setup/Installation Requirements
 
-* Create HTML and CSS files
-* Link CSS to HTML
-* 
+* Clone HTML and CSS files
+* Open with Visual Studio Code or program of choice
+* To view, enter "open index.html" from terminal
+* You may find this project in [this repository](https://github.com/vguer/Portfolio-Webpage.git).
 
 
 ## Known Bugs
