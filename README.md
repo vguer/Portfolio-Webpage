@@ -13,7 +13,7 @@ The purpose of this independent project is to create a web landing page using HT
 * Clone HTML and CSS files
 * Open with Visual Studio Code or program of choice
 * To view, enter "open index.html" from terminal
-* You may find this project in [this repository](https://github.com/vguer/Portfolio-Webpage.git).
+* You may find this project in [this repository](https://github.com/vguer/Portfolio-Webpage.git) or on [this webpage](https://vguer.github.io/Portfolio-Webpage/).
 
 
 ## Known Bugs
