@@ -1,9 +1,3 @@
-body {
-  background-image:url(/IMG/rock.jpg);
-  padding-left:11px;
-  padding-right:11px;
-}
-
 .welcome {
   text-align:center;
 }
@@ -14,7 +8,6 @@ body {
   font-size:40px;
   font-family:'Courier New', Courier, monospace;
   background-color: whitesmoke;
-  align-content:center;
 }
 
 .welcome h2 {
@@ -45,7 +38,6 @@ body {
   font-weight:normal;
   font-size:15px;
   font-family:'Courier New', Courier, monospace;
-  align-content:center;
 }
 
 a.nav-link:link {
@@ -59,17 +51,15 @@ ol li {
   font-weight:normal;
   font-size:15px;
   font-family:'Courier New', Courier, monospace;
-  align-content:center;
 }
 
 ul {
   font-weight:normal;
   font-size:15px;
   font-family:'Courier New', Courier, monospace;
-  align-content:center;
 }
 
 .photos {
   text-align:center;
-  align-items: center;
+  align-items:center;
 }
