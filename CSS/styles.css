@@ -21,7 +21,7 @@
   width:900px;
   float:center;
   margin:auto;
-  border:50px; color: black;
+  border:13px solid whitesmoke;
   padding:2px;
   background-color: #aae7e9
 }
@@ -38,6 +38,7 @@
   font-weight:normal;
   font-size:15px;
   font-family:'Courier New', Courier, monospace;
+  padding:2px;
 }
 
 a.nav-link:link {
