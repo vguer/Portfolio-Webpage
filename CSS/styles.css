@@ -61,6 +61,7 @@ ul {
 }
 
 .photos {
-  text-align:center;
-  align-items:center;
+  width: 930px;
+  float: center;
+  margin: auto;
 }
