@@ -1,63 +1,63 @@
 .welcome {
-  text-align:center;
+  text-align: center;
 }
 
 .welcome h1 {
-  font-weight:normal;
-  text-align:center;
-  font-size:40px;
-  font-family:'Courier New', Courier, monospace;
+  font-weight: normal;
+  text-align: center;
+  font-size: 40px;
+  font-family: 'Courier New', Courier, monospace;
   background-color: whitesmoke;
 }
 
 .welcome h2 {
-  font-weight:normal;
-  font-size:30px;
-  font-family:'Courier New', Courier, monospace;
-  align-content:center;
+  font-weight: normal;
+  font-size: 30px;
+  font-family: 'Courier New', Courier, monospace;
+  align-content: center;
 }
 
 .column {
-  width:900px;
-  float:center;
-  margin:auto;
-  border:13px solid whitesmoke;
-  padding:2px;
+  width: 900px;
+  float: center;
+  margin: auto;
+  border: 13px solid whitesmoke;
+  padding: 2px;
   background-color: #aae7e9
 }
 
 .column h3 {
-  font-weight:bold;
-  font-size:25px;
-  font-family:'Courier New', Courier, monospace;
-  align-content:center;
+  font-weight: bold;
+  font-size: 25px;
+  font-family: 'Courier New', Courier, monospace;
+  align-content: center;
   background-color: #e9d5aa;
 }
 
 .column p {
-  font-weight:normal;
-  font-size:15px;
-  font-family:'Courier New', Courier, monospace;
-  padding:2px;
+  font-weight: normal;
+  font-size: 15px;
+  font-family: 'Courier New', Courier, monospace;
+  padding: 2px;
 }
 
 a.nav-link:link {
   color: black;
-  font-weight:bold;
-  text-decoration:none;
-  font-family:'Courier New', Courier, monospace;
+  font-weight: bold;
+  text-decoration: none;
+  font-family: 'Courier New', Courier, monospace;
 }
 
 ol li {
-  font-weight:normal;
-  font-size:15px;
-  font-family:'Courier New', Courier, monospace;
+  font-weight: normal;
+  font-size: 15px;
+  font-family: 'Courier New', Courier, monospace;
 }
 
 ul {
-  font-weight:normal;
-  font-size:15px;
-  font-family:'Courier New', Courier, monospace;
+  font-weight: normal;
+  font-size: 15px;
+  font-family: 'Courier New', Courier, monospace;
 }
 
 .photos {
