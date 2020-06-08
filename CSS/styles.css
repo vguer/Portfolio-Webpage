@@ -5,7 +5,7 @@
 .welcome h1 {
   font-weight: normal;
   text-align: center;
-  font-size: 40px;
+  font-size: 35px;
   font-family: 'Courier New', Courier, monospace;
   background-color: whitesmoke;
 }
@@ -60,8 +60,10 @@ ul {
   font-family: 'Courier New', Courier, monospace;
 }
 
-.photos {
-  width: 930px;
-  float: center;
-  margin: auto;
+.photo {
+  display: block;
+  width: 915px;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto; 
 }
